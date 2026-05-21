@@ -2,3 +2,5 @@ continut fisier 1
 linie noua in f1 - commit 1
 linie noua in f1 - commit 2
 linie noua in f1 - commit 3
+linie squash 1
+linie squash 2
